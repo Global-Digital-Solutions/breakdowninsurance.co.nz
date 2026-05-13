@@ -62,7 +62,7 @@ export default function Footer() {
           {/* Brand & Contact */}
           <div className="col-span-2 sm:col-span-4 lg:col-span-1">
             <div className="mb-4">
-              <Logo />
+              <Logo variant="white" />
             </div>
             <p className="text-slate-400 text-sm leading-relaxed mb-4">
               The independent breakdown insurance comparison service — any vehicle, any driver, any location. We do the research so you don&apos;t have to.
