@@ -1,0 +1,66 @@
+{
+  "lastUpdated": "2026-04-10T00:00:00.000Z",
+  "source": "Apify content feed (refresh via /admin or run scripts/fetch-apify-data.js)",
+  "articles": [
+    {
+      "id": "1",
+      "title": "EV Sales in NZ Hit Record High: What It Means for MBI Demand",
+      "excerpt": "New Zealand's electric vehicle registrations have surged, creating growing demand for specialised EV breakdown insurance products.",
+      "source": "NZ Herald Motors",
+      "sourceUrl": "https://www.nzherald.co.nz",
+      "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800&q=80",
+      "date": "2026-04-08",
+      "category": "Industry News"
+    },
+    {
+      "id": "2",
+      "title": "ICNZ Reports Rising Vehicle Repair Costs Across NZ",
+      "excerpt": "The Insurance Council of NZ notes that vehicle repair inflation has outpaced CPI, with average mechanical repair costs up 18% over two years.",
+      "source": "Insurance Council NZ",
+      "sourceUrl": "https://www.icnz.org.nz",
+      "image": "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?w=800&q=80",
+      "date": "2026-04-01",
+      "category": "Industry Research"
+    },
+    {
+      "id": "3",
+      "title": "NZ's Aging Vehicle Fleet Creates MBI Opportunity",
+      "excerpt": "With the average age of NZ vehicles exceeding 14 years, the case for mechanical breakdown protection has never been stronger.",
+      "source": "Motor Industry Association",
+      "sourceUrl": "https://www.mia.org.nz",
+      "image": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&q=80",
+      "date": "2026-03-25",
+      "category": "Market Analysis"
+    },
+    {
+      "id": "4",
+      "title": "Japanese Import Safety Ratings: Which Models Hold Value Best",
+      "excerpt": "A breakdown of safety and reliability data for the most popular Japanese import models in the NZ market.",
+      "source": "VIA NZ",
+      "sourceUrl": "https://www.via.org.nz",
+      "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a?w=800&q=80",
+      "date": "2026-03-18",
+      "category": "Vehicle Research"
+    },
+    {
+      "id": "5",
+      "title": "FMA Guidance Update on MBI Product Disclosure",
+      "excerpt": "The Financial Markets Authority has updated its guidance for MBI providers on clear disclosure of exclusions in product documentation.",
+      "source": "Financial Markets Authority",
+      "sourceUrl": "https://www.fma.govt.nz",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+      "date": "2026-03-10",
+      "category": "Regulation"
+    },
+    {
+      "id": "6",
+      "title": "EV Battery Degradation: What NZ Owners Are Experiencing",
+      "excerpt": "First-hand data from NZ EV owners on real-world battery degradation rates and the growing need for out-of-warranty battery protection.",
+      "source": "Flip the Fleet NZ",
+      "sourceUrl": "https://flipthefleet.org",
+      "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=800&q=80",
+      "date": "2026-03-05",
+      "category": "EV Research"
+    }
+  ]
+}

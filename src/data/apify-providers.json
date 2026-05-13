@@ -1,0 +1,53 @@
+{
+  "lastUpdated": "2026-04-10T00:00:00.000Z",
+  "source": "Apify provider data (refresh via /admin or run scripts/fetch-apify-data.js)",
+  "competitorInsights": [
+    {
+      "provider": "AutoSure",
+      "url": "https://autosure.co.nz",
+      "keyProducts": ["Standard MBI", "Premium MBI", "Tyre & Rim"],
+      "navigationStructure": ["Products", "How It Works", "Find a Dealer", "Make a Claim", "FAQs"],
+      "targetAudience": "Used car buyers through dealer network",
+      "pricingModel": "Through dealer at point of sale",
+      "uniqueSellingPoints": ["NZ market leader", "Nationwide dealer network", "Established claims process"],
+      "contentCategories": ["Dealer resources", "Consumer FAQs", "Claims process"],
+      "scrapedDate": "2026-04-10"
+    },
+    {
+      "provider": "Provident Insurance",
+      "url": "https://providentinsurance.co.nz",
+      "keyProducts": ["MBI", "GAP Insurance", "Payment Protection"],
+      "navigationStructure": ["Products", "For Dealers", "Make a Claim", "Contact Us"],
+      "targetAudience": "Vehicle buyers through finance and dealer channels",
+      "pricingModel": "Dealer/broker arranged",
+      "uniqueSellingPoints": ["Bundled products", "Strong dealer relationships", "Payment protection bundling"],
+      "contentCategories": ["Dealer portal", "Consumer products", "Claims"],
+      "scrapedDate": "2026-04-10"
+    },
+    {
+      "provider": "MoneyHub NZ",
+      "url": "https://www.moneyhub.co.nz/mechanical-breakdown-insurance.html",
+      "keyProducts": ["MBI comparison guide"],
+      "navigationStructure": ["Overview", "Best MBI", "FAQs", "Provider list"],
+      "targetAudience": "NZ consumers researching MBI",
+      "pricingModel": "Comparison/affiliate model",
+      "uniqueSellingPoints": ["Independent comparison", "Consumer education focus", "Wide provider coverage"],
+      "contentCategories": ["Provider comparison", "Cost guide", "How MBI works"],
+      "scrapedDate": "2026-04-10"
+    }
+  ],
+  "marketInsights": {
+    "averagePremiumRanges": {
+      "basic": { "monthly": "20-35", "annual": "300-500" },
+      "comprehensive": { "monthly": "40-70", "annual": "600-1000" },
+      "premium": { "monthly": "80-130", "annual": "1000-1800" }
+    },
+    "topCoveredMakes": ["Toyota", "Nissan", "Honda", "Mazda", "Subaru", "Mitsubishi"],
+    "keyMarketTrends": [
+      "Growing EV fleet driving demand for EV-specific MBI",
+      "Aging NZ vehicle fleet increasing breakdown frequency",
+      "Rising repair costs making MBI more valuable",
+      "Japanese import popularity sustaining MBI market depth"
+    ]
+  }
+}

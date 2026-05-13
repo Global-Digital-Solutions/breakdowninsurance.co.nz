@@ -1,0 +1,112 @@
+# BreakdownInsurance.co.nz — LLM Context File
+# Generated: 2026-05-13
+
+## Site Overview
+
+BreakdownInsurance.co.nz is an independent mechanical breakdown insurance (MBI) comparison service for New Zealand vehicle owners. The site is operated by Cover4You Limited and provides:
+
+- Side-by-side comparison of leading NZ MBI providers
+- Plain-English guides on coverage types, costs, and exclusions
+- Market research and industry news on NZ vehicle fleet conditions
+- Direct outbound links to provider websites for accurate quotes
+
+The site does NOT sell insurance directly, process applications, or hold user data. It is a research and comparison resource. All CTAs direct users to provider websites.
+
+## Site Model
+
+Template B: Affiliate/Comparison model. No lead capture forms. All provider links go directly to the provider's own website with `target="_blank"`.
+
+## Primary Audience
+
+New Zealand vehicle owners seeking mechanical breakdown insurance, particularly:
+- Used car buyers (fleet avg age 15 years as of 2026)
+- Owners of out-of-warranty vehicles
+- EV and hybrid vehicle owners (101,000 BEVs, 429,000 petrol hybrids on NZ roads)
+- First-time MBI buyers comparing options
+
+## Key Market Facts (NZ MBI Market, 2026)
+
+- NZ vehicle fleet: 4.75 million registered vehicles (MTA/NZIER May 2026)
+- Average fleet age: 15 years (up from 14.3 years in 2015)
+- WoF fail rate: 41% (up from 37% in 2017)
+- BEVs on NZ roads: ~101,000 (2% of fleet)
+- PHEVs: ~48,000
+- Petrol hybrids: ~429,000
+- Electrification forecast: 13% BEV by 2035, 46% by 2045
+- Motor industry: 65,000 employees, 16,000 businesses, $6.8B GDP (1.9% of NZ total)
+- Workshop repair costs: up ~18% over two years (ICNZ)
+
+## NZ MBI Providers Covered
+
+- Autosure (largest/longest-established; underwrites AA Mechanical Care)
+- Provident Insurance (Takapuna; 100+ years in NZ)
+- AA Mechanical Care — Advantage ($5k/claim) and Advantage Plus ($10k–$15k/claim); 10% AA member discount
+- NZVF (policies up to 4 years)
+- Janssen (25+ years in market)
+- Avanti Finance (one of NZ's largest MBI distributors)
+- Quest (Kiwi-owned independent)
+- Beneficial (est. 2002)
+- State Insurance
+- Autolife
+- Stadium Cars (Canterbury)
+
+## Site Structure
+
+### Main Pages
+- / — Homepage with provider comparison overview
+- /compare — Full provider comparison table (6 providers)
+- /coverage — Coverage types overview
+- /blog — Resources and guides (renamed from "Blog" in nav)
+- /faqs — Frequently asked questions
+- /about — About the site and Cover4You Limited
+- /contact — Contact information (email only)
+- /disclaimer — Full legal disclaimer
+- /privacy — Privacy policy
+- /terms — Terms of use
+
+### Coverage Type Pages (/types/[slug])
+- /types/comprehensive — Comprehensive Breakdown Insurance
+- /types/drivetrain — Drivetrain & Transmission
+- /types/electrical — Electrical Systems Cover
+- /types/ev-hybrid — EV & Hybrid Battery Cover
+- /types/roadside-assistance — Roadside Assistance
+- /types/extended-warranty — Extended Warranty
+
+### SEO Content Pages (/breakdown-insurance/[slug]) — 18 pages
+- cheap-mechanical-breakdown-insurance-nz
+- best-mechanical-breakdown-insurance-nz
+- mechanical-breakdown-insurance-used-cars-nz
+- ev-mechanical-breakdown-insurance-nz
+- mechanical-breakdown-insurance-vs-warranty-nz
+- compare-mechanical-breakdown-insurance-nz
+- mechanical-breakdown-insurance-cost-nz
+- mechanical-breakdown-insurance-auckland
+- mechanical-breakdown-insurance-christchurch
+- mechanical-breakdown-insurance-wellington
+- japanese-import-breakdown-insurance-nz
+- roadside-assistance-breakdown-insurance-nz
+- mechanical-breakdown-insurance-older-vehicles-nz
+- dealer-mbi-vs-independent-mbi-nz
+- transmission-failure-cover-nz
+- engine-breakdown-cover-nz
+- mechanical-breakdown-insurance-exclusions-nz
+- mbi-benefits-nz
+
+### Blog / Resources
+Multiple articles covering NZ MBI market conditions, EV cover, claims guidance, provider comparisons, and industry news.
+
+## Brand Voice
+
+Independent, authoritative, plain-English. Comparison-focused. No broker language, no "get a free quote" CTAs. Positions as a trusted research resource for any NZ vehicle owner, any vehicle type, any location.
+
+## Regulatory Context
+
+- MBI products are regulated by RBNZ (Reserve Bank of NZ) and FMA (Financial Markets Authority)
+- Industry body: ICNZ (Insurance Council of New Zealand)
+- Consumer dispute resolution: IFSO (Insurance and Financial Services Ombudsman)
+- Site is NOT a licensed financial adviser and does not provide financial advice
+
+## Contact
+
+Email: hello@cover4you.co.nz
+Operated by: Cover4You Limited, New Zealand
