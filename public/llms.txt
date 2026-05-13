@@ -3,7 +3,7 @@
 
 ## Site Overview
 
-BreakdownInsurance.co.nz is an independent mechanical breakdown insurance (MBI) comparison service for New Zealand vehicle owners. The site is operated by Cover4You Limited and provides:
+BreakdownInsurance.co.nz is an independent mechanical breakdown insurance (MBI) comparison service for New Zealand vehicle owners. The site is operated by Cover4You and provides:
 
 - Side-by-side comparison of leading NZ MBI providers
 - Plain-English guides on coverage types, costs, and exclusions
@@ -58,7 +58,7 @@ New Zealand vehicle owners seeking mechanical breakdown insurance, particularly:
 - /coverage — Coverage types overview
 - /blog — Resources and guides (renamed from "Blog" in nav)
 - /faqs — Frequently asked questions
-- /about — About the site and Cover4You Limited
+- /about — About the site and Cover4You
 - /contact — Contact information (email only)
 - /disclaimer — Full legal disclaimer
 - /privacy — Privacy policy
@@ -109,4 +109,4 @@ Independent, authoritative, plain-English. Comparison-focused. No broker languag
 ## Contact
 
 Email: hello@cover4you.co.nz
-Operated by: Cover4You Limited, New Zealand
+Operated by: Cover4You, New Zealand

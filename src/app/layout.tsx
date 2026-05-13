@@ -61,7 +61,7 @@ const organizationSchema = {
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "BreakdownInsurance.co.nz",
-  "alternateName": "Cover4You Limited",
+  "alternateName": "Cover4You",
   "url": "https://breakdowninsurance.co.nz",
   "logo": "https://breakdowninsurance.co.nz/android-chrome-512x512.png",
   "description": "Independent mechanical breakdown insurance comparison service for New Zealand vehicle owners. Any vehicle, any driver, any location.",
@@ -78,7 +78,7 @@ const websiteSchema = {
   "description": "Compare mechanical breakdown insurance providers in New Zealand — independently, side by side.",
   "publisher": {
     "@type": "Organization",
-    "name": "Cover4You Limited",
+    "name": "Cover4You",
   },
   "potentialAction": {
     "@type": "SearchAction",

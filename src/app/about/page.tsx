@@ -22,7 +22,7 @@ export default function AboutPage() {
         <div className="max-w-4xl mx-auto">
           <div className="prose prose-lg max-w-none">
             <h2 className="text-3xl font-extrabold text-slate-900 mb-6">Who We Are</h2>
-            <p className="text-slate-600 leading-relaxed mb-6">BreakdownInsurance.co.nz is operated by Cover4You Limited, a Kiwi company focused on helping vehicle owners understand and compare Mechanical Breakdown Insurance (MBI) products. We are an independent information and comparison service — not an insurer or underwriter.</p>
+            <p className="text-slate-600 leading-relaxed mb-6">BreakdownInsurance.co.nz is operated by Cover4You, a Kiwi company focused on helping vehicle owners understand and compare Mechanical Breakdown Insurance (MBI) products. We are an independent information and comparison service — not an insurer or underwriter.</p>
             <p className="text-slate-600 leading-relaxed mb-8">We believe the breakdown insurance market lacks transparency and that independent, jargon-free information is genuinely valuable for vehicle owners. Our comparison tools give you a clear, unbiased view of the leading providers so you can make an informed choice.</p>
 
             <h2 className="text-3xl font-extrabold text-slate-900 mb-6">What We Do</h2>
@@ -43,7 +43,7 @@ export default function AboutPage() {
 
             <h2 className="text-3xl font-extrabold text-slate-900 mb-6">Our Commitment</h2>
             <p className="text-slate-600 leading-relaxed mb-4">We are committed to providing accurate, up-to-date information about breakdown insurance. We do not accept advertising from specific providers in exchange for favourable coverage, and our editorial content reflects our genuine assessment of the market.</p>
-            <p className="text-slate-600 leading-relaxed mb-8">Our comparison links directly to provider websites. Cover4You Limited may receive referral fees where applicable. This is disclosed in our disclaimer. Our referral arrangements do not influence the comparisons or information we publish — all providers are presented fairly.</p>
+            <p className="text-slate-600 leading-relaxed mb-8">Our comparison links directly to provider websites. Cover4You may receive referral fees where applicable — this is disclosed in our <a href="/disclaimer" className="text-amber-700 underline">disclaimer</a>. Our referral arrangements do not influence the comparisons or information we publish — all providers are presented fairly.</p>
 
             <h2 className="text-3xl font-extrabold text-slate-900 mb-6">Regulatory Framework</h2>
             <p className="text-slate-600 leading-relaxed mb-4">The breakdown insurance products we reference are insurance products regulated by the <a href="https://www.rbnz.govt.nz" target="_blank" rel="noopener noreferrer" className="text-amber-700 underline">Reserve Bank of New Zealand (RBNZ)</a> and the <a href="https://www.fma.govt.nz" target="_blank" rel="noopener noreferrer" className="text-amber-700 underline">Financial Markets Authority (FMA)</a>. The <a href="https://www.icnz.org.nz" target="_blank" rel="noopener noreferrer" className="text-amber-700 underline">Insurance Council of New Zealand (ICNZ)</a> provides industry guidelines that reputable providers adhere to.</p>

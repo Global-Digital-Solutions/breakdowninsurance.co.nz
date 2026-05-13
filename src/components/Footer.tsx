@@ -180,13 +180,13 @@ export default function Footer() {
         {/* Disclaimer */}
         <div className="mt-12 pt-8 border-t border-slate-800">
           <p className="text-slate-500 text-xs leading-relaxed max-w-none mb-2">
-            <strong className="text-slate-400">About This Site:</strong> BreakdownInsurance.co.nz is an independent information and comparison service operated by Cover4You Limited. We are not an insurance company, underwriter, or licensed financial adviser. Our comparison links directly to provider websites — we do not sell insurance, process applications, or hold your personal details. Information on this site is general in nature and does not constitute financial advice.
+            <strong className="text-slate-400">About This Site:</strong> BreakdownInsurance.co.nz is an independent information and comparison service operated by Cover4You. We are not an insurance company, underwriter, or licensed financial adviser. Our comparison links directly to provider websites — we do not sell insurance, process applications, or hold your personal details. Information on this site is general in nature and does not constitute financial advice.
           </p>
           <p className="text-slate-500 text-xs leading-relaxed max-w-none mb-2">
-            Cover4You Limited may receive a referral fee where applicable. This does not influence our comparisons — all providers are assessed independently. We recommend reviewing the <a href="https://www.icnz.org.nz" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-amber-400 underline">Insurance Council of New Zealand (ICNZ)</a> guidelines before purchasing any policy. Please read our <a href="/disclaimer" className="text-slate-400 hover:text-amber-400 underline">full disclaimer</a> for more information. All breakdown insurance policies are subject to the terms and conditions of the issuing insurer.
+            Cover4You may receive a referral fee where applicable. This does not influence our comparisons — all providers are assessed independently. We recommend reviewing the <a href="https://www.icnz.org.nz" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-amber-400 underline">Insurance Council of New Zealand (ICNZ)</a> guidelines before purchasing any policy. Please read our <a href="/disclaimer" className="text-slate-400 hover:text-amber-400 underline">full disclaimer</a> for more information. All breakdown insurance policies are subject to the terms and conditions of the issuing insurer.
           </p>
           <p className="text-slate-500 text-xs leading-relaxed max-w-none">
-            Breakdown insurance products are regulated by the Reserve Bank of New Zealand (RBNZ) and the Financial Markets Authority (FMA). © {new Date().getFullYear()} Cover4You Limited. All rights reserved. BreakdownInsurance.co.nz
+            Breakdown insurance products are regulated by the Reserve Bank of New Zealand (RBNZ) and the Financial Markets Authority (FMA). © {new Date().getFullYear()} Cover4You. All rights reserved. BreakdownInsurance.co.nz
           </p>
         </div>
       </div>

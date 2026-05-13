@@ -65,7 +65,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
               />
               <div className="mt-10 p-6 bg-amber-50 border border-amber-200 rounded-2xl">
                 <h3 className="font-bold text-slate-900 mb-2">Disclaimer</h3>
-                <p className="text-sm text-slate-600 leading-relaxed">This article is for general informational purposes only and does not constitute financial advice. breakdown insurance products vary by provider — always read your policy schedule carefully. BreakdownInsurance.co.nz is operated by Cover4You Limited, an independent information service. We are not a licensed financial adviser.</p>
+                <p className="text-sm text-slate-600 leading-relaxed">This article is for general informational purposes only and does not constitute financial advice. breakdown insurance products vary by provider — always read your policy schedule carefully. BreakdownInsurance.co.nz is operated by Cover4You, an independent information service. We are not a licensed financial adviser.</p>
               </div>
             </article>
 
