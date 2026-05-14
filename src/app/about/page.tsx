@@ -22,7 +22,7 @@ export default function AboutPage() {
         <div className="max-w-4xl mx-auto">
           <div className="prose prose-lg max-w-none">
             <h2 className="text-3xl font-extrabold text-slate-900 mb-6">Who We Are</h2>
-            <p className="text-slate-600 leading-relaxed mb-6">BreakdownInsurance.co.nz is operated by Cover4You, a Kiwi company focused on helping vehicle owners understand and compare Mechanical Breakdown Insurance (MBI) products. We are an independent information and comparison service — not an insurer or underwriter.</p>
+            <p className="text-slate-600 leading-relaxed mb-6">BreakdownInsurance.co.nz is operated by Cover4You, a Kiwi owned company focused on helping vehicle owners understand and compare Mechanical Breakdown Insurance (MBI) products. We are an independent information and comparison service — not an insurer or underwriter.</p>
             <p className="text-slate-600 leading-relaxed mb-8">We believe the breakdown insurance market lacks transparency and that independent, jargon-free information is genuinely valuable for vehicle owners. Our comparison tools give you a clear, unbiased view of the leading providers so you can make an informed choice.</p>
 
             <h2 className="text-3xl font-extrabold text-slate-900 mb-6">What We Do</h2>
